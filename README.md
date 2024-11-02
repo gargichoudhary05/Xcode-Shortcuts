@@ -5,4 +5,5 @@ List of Xcode Shortcuts
 2. cmd+ shift +l => object library
 3. cmd+ l => line no
 4. cmd+1;2345 => navigation bars
-5. 
+5. cmd + alt +3 => identity inspector
+6. 
